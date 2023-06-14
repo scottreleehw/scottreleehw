@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scottreleehw
-- 👀 I’m interested in Python and Powershell as well as learning as much as I can to advance my career and make my personal life better
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new programming languages, Powershell, Python, and Go as well as Cybersecurity and honestly all things tech!
+- 🌱 I’m currently learning Go and I'm wanting to start getting more into Kubernetes and work on my CKA and KCNA certs! The end goal is to work with those tools.
+- 📫 I'm reachable on twitter @sc0ttWheeler and can be found on Discord @conficker
 
 <!---
 scottreleehw/scottreleehw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
